@@ -24,7 +24,7 @@ import reddottips.adapterfilter.R;
  */
 
 public class FilterFragment extends Fragment implements View.OnClickListener {
-    
+
     private ListView filterList;
     public List<String> list;
     private boolean ifShouldPop = true;
