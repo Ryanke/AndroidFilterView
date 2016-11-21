@@ -1,0 +1,4 @@
+#Mon Nov 21 17:52:55 CST 2016
+base.0=/Users/kerui/android项目/AndroidFilterView/AdapterFilter/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/kerui/android项目/AndroidFilterView/AdapterFilter/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

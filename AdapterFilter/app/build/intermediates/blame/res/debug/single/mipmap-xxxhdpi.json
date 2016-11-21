@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/kerui/android项目/AdapterFilter/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/normal_gray.png",
+        "source": "/Users/kerui/android项目/AdapterFilter/app/src/main/res/mipmap-xxxhdpi/normal_gray.png"
+    },
+    {
+        "merged": "/Users/kerui/android项目/AndroidFilterView/AdapterFilter/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/press_blue.png",
+        "source": "/Users/kerui/android项目/AndroidFilterView/AdapterFilter/app/src/main/res/mipmap-xxxhdpi/press_blue.png"
+    },
+    {
+        "merged": "/Users/kerui/android项目/AndroidFilterView/AdapterFilter/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/normal_gray.png",
+        "source": "/Users/kerui/android项目/AndroidFilterView/AdapterFilter/app/src/main/res/mipmap-xxxhdpi/normal_gray.png"
+    },
+    {
+        "merged": "/Users/kerui/android项目/AdapterFilter/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/press_blue.png",
+        "source": "/Users/kerui/android项目/AdapterFilter/app/src/main/res/mipmap-xxxhdpi/press_blue.png"
+    },
+    {
+        "merged": "/Users/kerui/android项目/AndroidFilterView/AdapterFilter/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/Users/kerui/android项目/AndroidFilterView/AdapterFilter/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/kerui/android项目/AdapterFilter/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/Users/kerui/android项目/AdapterFilter/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    }
+]

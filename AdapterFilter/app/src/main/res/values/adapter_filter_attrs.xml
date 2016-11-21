@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--AdapterFilterView-->
+    <declare-styleable name="AdapterFilterView">
+        <attr name="filterView_default_filter" format="string" />
+    </declare-styleable>
+</resources>
