@@ -195,7 +195,7 @@ public class AdapterFilterView extends RelativeLayout implements View.OnClickLis
 演示如下
 
 ![image](https://github.com/Ryanke/AndroidFilterView/blob/master/AdapterFilter/README.gif)
-![image](https://github.com/Ryanke/BlueToothPrinter/blob/master/BToothPrinter/1422503286295942.jpg)
+
 
  
 
